@@ -26,9 +26,4 @@ The pivot table contains the following information:
 ### Screenshot
 ![Pivot Table Screenshot](Capture.JPG)
 
-## Usage
 
-You can clone this repository and explore the pivot table using Excel or any spreadsheet application:
-
-```bash
-git clone https://github.com/your-username/my-pivot-table-repo.git
