@@ -24,7 +24,7 @@ The pivot table contains the following information:
 | Srushti  | Sales      | 3/1/2012   | 8800         | 22600      | 8462106730   | 900        |
 
 ### Screenshot
-![Pivot Table Screenshot](./capture.jpg)
+![Pivot Table Screenshot](Capture.JPG)
 
 ## Usage
 
