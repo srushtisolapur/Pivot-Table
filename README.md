@@ -23,6 +23,9 @@ The pivot table contains the following information:
 | Pramod   | Admin      | 6/1/2015   | 3900         | 20670      | 9373808729   | 360        |
 | Srushti  | Sales      | 3/1/2012   | 8800         | 22600      | 8462106730   | 900        |
 
+### Screenshot
+![Pivot Table Screenshot](./capture.jpg)
+
 ## Usage
 
 You can clone this repository and explore the pivot table using Excel or any spreadsheet application:
